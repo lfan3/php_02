@@ -1,0 +1,2 @@
+ex01: preciser le forma the H MIN SECONDE
+        "/(<a.*?>)(.*)(<\/a>)/si",

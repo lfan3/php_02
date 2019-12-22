@@ -1,0 +1,10 @@
+regex
+1 /^toto$/
+2 t[0-9]t[a-m]
+3 t[0-9]{4}
+4 t([i0])t\1 ??
+
+//fopen, fgets() file_exists() fclose()
+//array_search();
+//strtolower();
+//strtotime(2013-1-12 12:02:21):format de temps doit etre specifie
